@@ -1,7 +1,7 @@
 <?php 
 	$currentPage = 'about'; // current page name....
-	$pageTitle = 'About AlgoSports Group';
-	$metaDescription = "AlgoSports Group operates an uncorrelated investment strategy, independent of prevailing economic conditions; in other words it is recession-proof and offers returns independent of any other mainstream investment product.";
+	$pageTitle = 'About Tech Sport Group';
+	$metaDescription = "Tech Sport Group operates an uncorrelated investment strategy, independent of prevailing economic conditions; in other words it is recession-proof and offers returns independent of any other mainstream investment product.";
 	include 'header.php'; ?>
 
 <body>
@@ -14,7 +14,7 @@
 		<div class="row">
 			<div class="col-12">
 				<h1 class = "my-5">
-					<span>ABOUT </span> ALGOSPORTS GROUP
+					<span>ABOUT </span> TECH SPORT GROUP
 				</h1>
 			</div>
 		</div>
@@ -28,11 +28,11 @@
 				<div class="about-content">
 
 					<p>
-					<span>AlgoSports Group</span> has developed its own trading algorithm code named Algo66, based upon artificial intelligence (“AI”) which constantly refines and innovates the underlying assumptions and strategy.
+					<span>Tech Sport Group</span> has developed its own trading algorithm code named Algo66, based upon artificial intelligence (“AI”) which constantly refines and innovates the underlying assumptions and strategy.
 					</p>
 
                     <p>
-                        <span>AlgoSports Group</span> operates an uncorrelated 
+                        <span>Tech Sport Group</span> operates an uncorrelated 
                          investment strategy, independent of prevailing economic conditions; 
                          in other words it is recession-proof and offers returns independent 
                          of any other mainstream investment product.

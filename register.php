@@ -1,7 +1,7 @@
 <?php 
 	$currentPage = 'register'; // current page name....
     $pageTitle = 'Register';
-    $metaDescription ="A New League in Sports Trading";
+    $metaDescription ="Trade Your Edge";
 	include 'header.php'; ?>
 
 <body>

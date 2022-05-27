@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <title><?php echo $pageTitle ?></title>
-	<meta property="title" content="AlgoSports Group" />
+	<meta property="title" content="Tech Sport Group" />
   <meta property="description" content="<?php echo $metaDescription ?>" />
-	<meta property="keywords" content="algo, sports, group, algoSports, algoSportsGroup, sports trading, fund management, Premier League, upcoming matches" />
+	<meta property="keywords" content="Tech, sport, group, techsport, techsportgroup, sports trading, fund management, Premier League, upcoming matches" />
   <link rel="shortcut icon" type="image/png" href="images/favicon.png">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,7 +16,9 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
   <link rel = "stylesheet" href = "css/main-style.css">
   <link rel = "stylesheet" href = "css/cookies.css">

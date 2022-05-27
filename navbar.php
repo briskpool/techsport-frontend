@@ -5,7 +5,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="images/algo-logo.png" alt="algosports-logo">
+                <img src="images/logo.png" alt="logo">
             </a>
             <button class="navbar-toggler" type="button" id = "open-menu">
                 <img src="images/icons/menu.svg" alt="menu-icon">

@@ -1,7 +1,7 @@
 <?php 
 	$currentPage = 'charity'; // current page name....
 	$pageTitle = 'Charity';
-	$metaDescription = "AlgoSports Group Integrity Services is a specialist division within AlgoSports Group, dedicated to achieving our vision of “Fairness in Sport” and helping to combat match-fixing.";
+	$metaDescription = "Tech Sport Group Integrity Services is a specialist division within AlgoSports Group, dedicated to achieving our vision of “Fairness in Sport” and helping to combat match-fixing.";
 	include 'header.php'; ?>
 
 <body>
