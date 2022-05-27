@@ -41,7 +41,7 @@
 				</a> -->
                 </div>
                 <div class="col-md-5 order-first order-md-last mb-3 mb-md-0 text-center">
-                    <img class="banner-img" src="images/about-us.png" alt="banner-img">
+                    <img class="banner-img" src="images/banner2.png" alt="banner-img">
                     <!-- <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="2000">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
@@ -161,6 +161,61 @@
         </div>
     </section>
 
+
+    <section class="page-sec sec-b">
+        <div class="container">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="ic-div mb-3">
+                                <img src="images/icons/trade_ic.svg" alt="icon-trade">
+                            </div>
+                            <h1>Trade</h1>
+                            <p>
+                                The management team we have in place is comprised not just of experienced
+                                financial services professionals, traders, data analysts, eminent mathematicians
+                                and statisticians, but also former professional football players, managers, and
+                                sports media personalities.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="ic-div mb-3">
+                                <img src="images/icons/technology_ic.svg" alt="icon-technology">
+                            </div>
+                            <h1>Technology</h1>
+                            <p>
+                                AlgoSports Group has developed its own trading algorithm code named Algo66, based upon
+                                artificial intelligence (“AI”) which constantly refines and innovates the underlying
+                                assumptions and strategy.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <div class="ic-div mb-3">
+                                <img src="images/icons/integrity_ic.svg" alt="icon-integrity">
+                            </div>
+                            <h1>Integrity</h1>
+                            <p>
+                                Our team remains deeply embedded in both the sports and financial markets meaning they
+                                are able to provide our clients with the peace of mind that all the staff at AlgoSports
+                                Group are experienced experts in their fields.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="page-sec up-coming-matches pt-5">
         <div class="container">
@@ -291,63 +346,6 @@
             </div>
         </div>
     </section>
-
-    <section class="page-sec sec-b">
-        <div class="container">
-            <div class="row g-3">
-                <div class="col-md-4">
-                    <div class="card h-100">
-                        <div class="card-body text-center">
-                            <div class="ic-div mb-3">
-                                <img src="images/icons/trade_ic.svg" alt="icon-trade">
-                            </div>
-                            <h1>Trade</h1>
-                            <p>
-                                The management team we have in place is comprised not just of experienced
-                                financial services professionals, traders, data analysts, eminent mathematicians
-                                and statisticians, but also former professional football players, managers, and
-                                sports media personalities.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100">
-                        <div class="card-body text-center">
-                            <div class="ic-div mb-3">
-                                <img src="images/icons/technology_ic.svg" alt="icon-technology">
-                            </div>
-                            <h1>Technology</h1>
-                            <p>
-                                AlgoSports Group has developed its own trading algorithm code named Algo66, based upon
-                                artificial intelligence (“AI”) which constantly refines and innovates the underlying
-                                assumptions and strategy.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card h-100">
-                        <div class="card-body text-center">
-                            <div class="ic-div mb-3">
-                                <img src="images/icons/integrity_ic.svg" alt="icon-integrity">
-                            </div>
-                            <h1>Integrity</h1>
-                            <p>
-                                Our team remains deeply embedded in both the sports and financial markets meaning they
-                                are able to provide our clients with the peace of mind that all the staff at AlgoSports
-                                Group are experienced experts in their fields.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-   
 
     <section class="page-sec algo-sec">
         <div class="container text-center">
@@ -484,7 +482,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1>
-                        A NEW LEAGUE IN SPORTS TRADING
+                        A New League In Sports Trading
                     </h1>
                 </div>
                 <div class="col-12 mt-4 mt-md-5">

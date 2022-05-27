@@ -3,30 +3,8 @@
     <div class="container">
         <div class="row g-3">
 
-            <div class="col-md-4">
-                <ul class="nav mt-1">
-                    <li class="nav-item">
-                        <a href="terms.php" class="nav-link">
-                            Terms Of Use
-                        </a>
-                    </li>
-                    <li class="nav-item ">
-                        <a href="privacy.php" class="nav-link">
-                            Privacy Statement
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 py-2">
-               <!-- TrustBox widget - Micro Review Count -->
-                    <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="6175441ad58e9011b823c3d7" data-style-height="24px" data-style-width="100%" data-theme="dark" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true" data-allow-robots="true">
-                    <a href="https://www.trustpilot.com/review/algosportsgroup.com" target="_blank" rel="noopener">Trustpilot</a>
-                    </div>
-                <!-- End TrustBox widget -->
-            </div>
-
-            <div class="col-md-4">
-                <ul class="nav justify-content-end">
+        <div class="col-md-4">
+                <ul class="nav justify-content-start">
                     <li class="nav-item">
                         <a href="https://www.linkedin.com/company/algosports-group" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-linkedin"></i>
@@ -45,6 +23,30 @@
                     <li class="nav-item">
                         <a href="https://www.instagram.com/algosportsgroup/" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-instagram"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            
+            <div class="col-md-4 py-2">
+               <!-- TrustBox widget - Micro Review Count -->
+                    <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="6175441ad58e9011b823c3d7" data-style-height="24px" data-style-width="100%" data-theme="dark" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true" data-allow-robots="true">
+                    <a href="https://www.trustpilot.com/review/algosportsgroup.com" target="_blank" rel="noopener">Trustpilot</a>
+                    </div>
+                <!-- End TrustBox widget -->
+            </div>
+
+
+            <div class="col-md-4">
+                <ul class="nav mt-1 justify-content-end">
+                    <li class="nav-item">
+                        <a href="terms.php" class="nav-link">
+                            Terms Of Use
+                        </a>
+                    </li>
+                    <li class="nav-item ">
+                        <a href="privacy.php" class="nav-link">
+                            Privacy Statement
                         </a>
                     </li>
                 </ul>
