@@ -142,18 +142,6 @@
                     </p>
 
                     <h1 class = "mt-3 mb-2">
-                         WE ARE NOT OFFERING SECURITIES OR PROVIDING INVESTMENT ADVICE 
-                    </h1>
-
-                    <p>
-                    Nothing in this website 
-                    constitutes investment advice. We provide investor relations material for your convenience
-                    and information only. In addition, investor relations materials and the other content on 
-                    our website are not offers to sell or solicitations to sell or solicitations of an offer 
-                    to buy any security.
-                    </p>
-
-                    <h1 class = "mt-3 mb-2">
                         TRADEMARKS AND COPYRIGHT 
                     </h1>
 
