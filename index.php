@@ -92,7 +92,7 @@
 </section> -->
 
 
-<section class="page-sec about">
+    <section class="page-sec about">
         <div class="container">
             <div class="row g-5">
                 <div class="col-md-5">
@@ -101,15 +101,15 @@
                 <div class="col-md-7 ps-md-5 d-flex align-items-center">
                     <div class="about-content">
                         <h1>
-                            Who We Are
+                            Who Are We?
                         </h1>
 
                         <p>
-                            AlgoSports has developed its own trading algorithm (“Algo66”), based upon artificial
-                            intelligence (“AI”) which constantly refines and innovates the underlying assumptions and
-                            strategy. The trading system continuously evolves, and the self-learning algorithm develops
-                            with each trade. The system has been back-tested on 4 years of historical data and has been
-                            privately traded for 2 years successfully at AlgoSports Group.
+                            We have developed our own trading algorithm that is based upon artificial intelligence. It
+                            constantly refines and innovates the underlying assumptions and strategy. The trading system
+                            continuously evolves, and the self-learning algorithm develops with each trade. The system
+                            has been back-tested on 6 years of historical data and has been privately traded for 4 years
+                            successfully at Tech Sport Global.
                         </p>
 
                     </div>
@@ -173,10 +173,9 @@
                             </div>
                             <h1>Trade</h1>
                             <p>
-                                The management team we have in place is comprised not just of experienced
-                                financial services professionals, traders, data analysts, eminent mathematicians
-                                and statisticians, but also former professional football players, managers, and
-                                sports media personalities.
+                                The team we have in place is comprised of experienced financial services professionals,
+                                traders, data analysts, eminent mathematicians and statisticians, also former
+                                professional football players, managers, and sports media personalities.
                             </p>
                         </div>
                     </div>
@@ -190,9 +189,9 @@
                             </div>
                             <h1>Technology</h1>
                             <p>
-                                AlgoSports Group has developed its own trading algorithm code named Algo66, based upon
-                                artificial intelligence (“AI”) which constantly refines and innovates the underlying
-                                assumptions and strategy.
+                                Tech Sport Global has developed its own trading algorithm code based upon artificial
+                                intelligence (AI) which constantly refines and innovates the underlying assumptions and
+                                strategy.
                             </p>
                         </div>
                     </div>
@@ -207,8 +206,8 @@
                             <h1>Integrity</h1>
                             <p>
                                 Our team remains deeply embedded in both the sports and financial markets meaning they
-                                are able to provide our clients with the peace of mind that all the staff at AlgoSports
-                                Group are experienced experts in their fields.
+                                are able to provide our clients with the peace of mind that all the staff at Tech Sport
+                                Global are experienced experts in their fields.
                             </p>
                         </div>
                     </div>
@@ -497,7 +496,7 @@
     <section class="page-sec contact-details" id="contact-us">
         <div class="container">
             <h1>
-                We would love to hear from you at Tech Sport Group
+                We would love to hear from you at Tech Sport Global
             </h1>
             <div class="row g-5">
 
