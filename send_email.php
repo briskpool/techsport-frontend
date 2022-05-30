@@ -6,7 +6,7 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 if (!empty($_POST['g_recaptcha_response'])) {
-  $secret = '6LcInm8dAAAAAPxoqi_3ZsrSdqadvy6JfTWzGw_8';
+  $secret = '6LfMHS8gAAAAAIHwkL8JivMNjYPx347WZpLE5oIV';
   $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $_POST['g_recaptcha_response']);
   $responseData = json_decode($verifyResponse);
   if ($responseData->success) {
@@ -33,20 +33,20 @@ if (!empty($_POST['g_recaptcha_response'])) {
       $mail->isSMTP();
 
       //Set SMTP host name                          
-      $mail->Host = "sxb1plmcpnl486574.prod.sxb1.secureserver.net";
+      $mail->Host = "mail.techsport-global.com";
       //Set this to true if SMTP host requires authentication to send email
       $mail->SMTPAuth = true;
       //Provide username and password     
-      $mail->Username = "info@algosportsgroup.com";
-      $mail->Password = "Manchester2021";
+      $mail->Username = "hello@techsport-global.com";
+      $mail->Password = "Manchester+techsport";
       //If SMTP requires TLS encryption then set it
       $mail->SMTPSecure = "tls";
       //Set TCP port to connect to
       $mail->Port = 587;
-      $mail->From = "info@algosportsgroup.com";
-      $mail->FromName = "AlgoSports Group";
-      // $mail->addAddress("mudassirkhan.uoh@gmail.com");
-      $mail->addAddress("info@algosportsgroup.com");
+      $mail->From = "hello@techsport-global.com";
+      $mail->FromName = "Tech Sport Global";
+      $mail->addAddress("muzammil.mykhan@gmail.com");
+      // $mail->addAddress("hello@techsport-global.com");
 
 
       $mail->isHTML(true);
@@ -87,20 +87,20 @@ if (!empty($_POST['g_recaptcha_response'])) {
       $mail->isSMTP();
 
       //Set SMTP host name                          
-      $mail->Host = "sxb1plmcpnl486574.prod.sxb1.secureserver.net";
+      $mail->Host = "mail.techsport-global.com";
       //Set this to true if SMTP host requires authentication to send email
       $mail->SMTPAuth = true;
       //Provide username and password     
-      $mail->Username = "info@algosportsgroup.com";
-      $mail->Password = "Manchester2021";
+      $mail->Username = "hello@techsport-global.com";
+      $mail->Password = "Manchester+techsport";
       //If SMTP requires TLS encryption then set it
       $mail->SMTPSecure = "tls";
       //Set TCP port to connect to
       $mail->Port = 587;
-      $mail->From = "info@algosportsgroup.com";
-      $mail->FromName = "AlgoSports Group";
-      $mail->addAddress("info@algosportsgroup.com");
-      // $mail->addAddress("mudassirkhan.uoh@gmail.com");
+      $mail->From = "hello@techsport-global.com";
+      $mail->FromName = "Tech Sport Global";
+      // $mail->addAddress("hello@techsport-global.com");
+      $mail->addAddress("muzammil.mykhan@gmail.com");
 
 
       $mail->isHTML(true);
