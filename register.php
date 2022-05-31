@@ -55,7 +55,7 @@
                         </div>
                         <div class="row g-4">
                             <div class="col-md-12 mb-3">
-                                <div class="g-recaptcha" data-sitekey="6LcInm8dAAAAAFekp-XWRFvYsYYtR_Dx6CIZqrqQ"></div>
+                                <div class="g-recaptcha" data-sitekey="6LfMHS8gAAAAAL0xAaVP8BXsR8IoFci996bBfUrF"></div>
                                 <div class="text-danger captcha-error">  
                                     
                                 </div>
@@ -73,7 +73,7 @@
 
                         <div class="row g-4">
                             <div class="col-md-12 d-grid">
-                                <a href="#!" id = "register-form" class="btn btn-secondary">
+                                <a href="#!" id="register-form" class="btn btn-secondary">
                                     REGISTER ACCOUNT
                                     <span class="spinner-border spinner-border-sm ms-2"></span>
                                 </a>
@@ -100,8 +100,8 @@
                     <div class="form-submit-msg" id="fail-msg">
 						<div class="message-content text-center">
 							<p>
-								<img class = "mb-3" src="images/ic_success.svg" 
-								alt="success-icon">
+								<img class = "mb-3" src="images/ic_failed.svg" 
+								alt="Failed-icon">
 							</p>
 							<h4>
 								Sorry!

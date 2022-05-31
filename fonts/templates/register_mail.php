@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Tech Sport Group</title>
+    <title>Moto Index</title>
     <meta charset="utf-8">
 
     <style type="text/css">
@@ -336,7 +336,7 @@
                                                         <p class="mobile-p" align="center" style="font-weight: 400; margin-top:5px;
 														margin-bottom: 10px !important;font-size: 16px; color: #626262;font-family: 'Product sans', sans-serif;">
                                                             Regards, <br>
-                                                            Tech Sport Group
+                                                            Moto Index
                                                         </p>
                                                     </td>
 
@@ -390,8 +390,8 @@
                                                                 <td class="mobile-p mob-td" align="left" style="padding:10px 40px 0px 40px; font-family: 'Product sans', sans-serif;line-height: 1.5; font-weight:400;font-size:14px;">
                                                                     <ul class="f-list">
                                                                         <li>
-                                                                            <a style="color: #91288F" href="http://techsport-group.com">
-                                                                                www.techsport-group.com
+                                                                            <a style="color: #91288F" href="http://www.moto-index.com">
+                                                                                www.moto-index.com
                                                                             </a>
                                                                         </li>
                                                                     </ul>
@@ -418,7 +418,7 @@
                                                                 <td colspan="2" class="mobile-p mob-td" align="left" style="padding:10px 40px 0px 40px; font-family: 'Product sans', sans-serif;line-height: 1.5; font-weight:400;font-size:14px;">
                                                                     <p class="mobile-p" align="left" style="font-weight: 400; margin-top:15px;
 																			margin-bottom: 10px !important;font-size: 14px; color: #626262;font-family: 'Product sans', sans-serif;">
-                                                                        This email and any attachments to it are confidential and intended solely for the person to whom they are addressed. They may contain legally privileged information. If you have received this in error, please delete this message and let us know by emailing hello@techsport-group.com. The messaging system from which this e-mail was sent is checked regularly for viruses. No liability is accepted for any viruses which may be transmitted in or with this e-mail from Tech Sport Group.
+                                                                        This email and any attachments to it are confidential and intended solely for the person to whom they are addressed. They may contain legally privileged information. If you have received this in error, please delete this message and let us know by emailing info@moto-index.com. The messaging system from which this e-mail was sent is checked regularly for viruses. No liability is accepted for any viruses which may be transmitted in or with this e-mail from Moto Index.
                                                                     </p>
                                                                 </td>
                                                             </tr>

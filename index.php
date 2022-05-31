@@ -542,7 +542,7 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <div class="g-recaptcha" data-sitekey="6LcInm8dAAAAAFekp-XWRFvYsYYtR_Dx6CIZqrqQ"></div>
+                                <div class="g-recaptcha" data-sitekey="6LfMHS8gAAAAAL0xAaVP8BXsR8IoFci996bBfUrF"></div>
                                 <div class="text-danger captcha-error">
 
                                 </div>

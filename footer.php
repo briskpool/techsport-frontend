@@ -149,202 +149,192 @@ var x = setInterval(function() {
 
 <!-- Cookies Alert Ending -->
 <script>
+    // var fixed_top = $(".navbar-top");
+    // $(window).on("scroll", function () {
+    //   if ($(window).scrollTop() > 50) {
+    //     fixed_top.addClass("header-fixed");
+    //   }
+    //   else {
+    //     fixed_top.removeClass("header-fixed");
+    //   }
+    // });
 
-$(document).ready(function () {
-    $("#tabs li a").on("click", function (e) {
-        $("#tabs li, #content .current").removeClass("current").removeClass("fadeInUp");
-        $(this).parent().addClass("current");
-        var currentTab = $(this).attr("href");
-        $(currentTab).addClass("current fadeInUp");
-        e.preventDefault();
+    $('.navbar-toggler').click(function() {
+        $(this).find('i').toggleClass("bi-list bi-x");
     });
-});
 
-$(document).ready(function (){
-    $('.carousel-control-prev').hide();
-        $('.carousel-control-next').click(function(){
-            $('.carousel-control-prev').show();
-        })
-});
-$(".spinner-border").hide();
-$('#submit-form').click(function(){
-    const fname=$('input[name="fname"]').val();
-    const email=$('input[name="email"]').val();
-    const subject=$('input[name="subject"]').val();
-    const message=$('textarea[name="message"]').val();
-    const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-    
-    if(fname==''){
-        $('.fname-error').text('This field is required');
-        return false;
-    }else{
-        $('.fname-error').text('');
-    }
+    /*Form Validation*/
+    $(".spinner-border").hide();
+    $('#submit-form').click(function() {
+        const fname = $('input[name="fname"]').val();
+        const email = $('input[name="email"]').val();
+        const subject = $('input[name="subject"]').val();
+        const message = $('textarea[name="msg"]').val();
+        const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 
-
-    if(email==''){
-        $('.email-error').text('This field is required');
-        return false;
-    }
-    if(!email.match(mailformat)){
-        $('.email-error').text('Invalid email address');
-        return false;
-    }else{
-        $('.email-error').text('');
-    }
-
-    
-    if(subject==''){
-        $('.subject-error').text('This field is required');
-        return false;
-    }else{
-        $('.subject-error').text('');
-    }
-
-    if(message==''){
-        $('.message-error').text('This field is required');
-        return false;
-    }
-    
-    else{
-        $('.message-error').text('');
-    }
-
-    $(".spinner-border").addClass('show');
-
-    $.post("send_email.php",
-    {
-        form: "contact",
-        f_name: fname,
-        email: email,
-        subject: subject,
-        msg: message,
-        g_recaptcha_response: grecaptcha.getResponse(),
-    },
-    
-    function(data, status){
-        // console.log(data);
-        if(data=='success'){
-            $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
-            $("input").val('');
-            $("textarea").val('');
+        if (fname == '') {
+            $('.fname-error').text('This field is required');
+            return false;
+        } else {
+            $('.fname-error').text('');
         }
-        else if(data=='captcha-error'){
-           $('.captcha-error').text('Captcha is required');
-        }else{
-            $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
+
+
+        if (email == '') {
+            $('.email-error').text('This field is required');
+            return false;
         }
-    });
-
-    $(document).ajaxComplete(function(){
-        $(".spinner-border").addClass('show').fadeOut();
-    });
-
-});
-$('#register-form').click(function(){
-	
-    const fname=$('input[name="f_name"]').val();
-    const lname=$('input[name="l_name"]').val();
-    const email=$('input[name="email"]').val();
-    const phone=$('input[name="phone"]').val();
-    const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-    if(fname==''){
-        $('.fname-error').text('This field is required');
-        return false;
-    }else{
-        $('.fname-error').text('');
-    }
-
-    if(lname==''){
-        $('.lname-error').text('This field is required');
-        return false;
-    }else{
-        $('.lname-error').text('');
-    }
-
-    if(email==''){
-        $('.email-error').text('This field is required');
-        return false;
-    }
-    if(!email.match(mailformat)){
-        $('.email-error').text('Invalid email address');
-        return false;
-    }else{
-        $('.email-error').text('');
-    }
-
-    if(phone==''){
-        $('.phone-error').text('This field is required');
-        return false;
-    }
-    if(isNaN(phone)){
-        $('.phone-error').text('Invalid phone number');
-        return false;
-    }
-    else{
-        $('.phone-error').text('');
-    }
-
-    $(".spinner-border").show();
-
-    $.post("send_email.php",
-    {
-        form: "register",
-        f_name: fname,
-        l_name: lname,
-        email: email,
-        phone: phone,
-        g_recaptcha_response: grecaptcha.getResponse(),
-    },
-    
-    function(data, status){
-        if(data=='success'){
-            $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
-            $("input").val('');
+        if (!email.match(mailformat)) {
+            $('.email-error').text('Invalid email address');
+            return false;
+        } else {
+            $('.email-error').text('');
         }
-        else if(data=='captcha-error'){
-           $('.captcha-error').text('Captcha is required');
-        }else{
-            $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
+
+
+        if (subject == '') {
+            $('.subject-error').text('This field is required');
+            return false;
+        } else {
+            $('.subject-error').text('');
         }
+
+        if (message == '') {
+            $('.message-error').text('This field is required');
+            return false;
+        } else {
+            $('.message-error').text('');
+        }
+
+        $('#submit-form').attr('disabled', true);
+        $("#ic_icon").hide();
+        $(".spinner-border").show();
+
+        $.post("send_email.php", {
+                form: "contact",
+                f_name: fname,
+                email: email,
+                subject: subject,
+                msg: message,
+                g_recaptcha_response: grecaptcha.getResponse(),
+            },
+
+            function(data, status) {
+                // console.log(data);
+                if (data == 'success') {
+                    $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
+                    $("input").val('');
+                    $("textarea").val('');
+                } else if (data == 'captcha-error') {
+                    $('.captcha-error').text('Captcha is required');
+                } else {
+                    $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
+                }
+            });
+
+        $(document).ajaxComplete(function() {
+            $(".spinner-border").fadeOut();
+            $("#ic_icon").show();
+            $('#submit-form').attr('disabled', false);
+
+        });
+
+    });
+    $('#register-form').click(function() {
+
+        const fname = $('input[name="f_name"]').val();
+        const lname = $('input[name="lname"]').val();
+        const email = $('input[name="email"]').val();
+        const phone = $('input[name="phone"]').val();
+        const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+        if (fname == '') {
+            $('.fname-error').text('This field is required');
+            return false;
+        } else {
+            $('.fname-error').text('');
+        }
+
+        if (lname == '') {
+            $('.lname-error').text('This field is required');
+            return false;
+        } else {
+            $('.lname-error').text('');
+        }
+
+        if (email == '') {
+            $('.email-error').text('This field is required');
+            return false;
+        }
+        if (!email.match(mailformat)) {
+            $('.email-error').text('Invalid email address');
+            return false;
+        } else {
+            $('.email-error').text('');
+        }
+
+        if (phone == '') {
+            $('.phone-error').text('This field is required');
+            return false;
+        }
+        if (isNaN(phone)) {
+            $('.phone-error').text('Invalid phone number');
+            return false;
+        } else {
+            $('.phone-error').text('');
+        }
+
+        $('#register-form').attr('disabled', true);
+        $("#ic_icon").hide();
+        $(".spinner-border").show();
+
+        $.post("send_email.php", {
+                form: "register",
+                f_name: fname,
+                l_name: lname,
+                email: email,
+                phone: phone,
+                g_recaptcha_response: grecaptcha.getResponse(),
+            },
+
+            function(data, status) {
+                console.log(data);
+                if (data == 'success') {
+                    $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
+                    $("input").val('');
+                } else if (data == 'captcha-error') {
+                    $('.captcha-error').text('Captcha is required');
+                } else {
+                    $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
+                }
+            });
+
+        $(document).ajaxComplete(function() {
+            $(".spinner-border").fadeOut();
+            $("#ic_icon").show();
+            $('#register-form').attr('disabled', false);
+        });
+    });
+    $('#open-menu').click(function() {
+        $('.side-mobile-nav').fadeIn();
+        $('body').addClass('modal-open')
     });
 
-    $(document).ajaxComplete(function(){
-        $(".spinner-border").fadeOut();
+    $('#close-menu').click(function() {
+        $('.side-mobile-nav').fadeOut();
+        $('body').removeClass('modal-open')
     });
-});
-$('#open-menu').click(function(){
-    $('.side-mobile-nav').fadeIn();
-    $('body').addClass('modal-open')
-});
 
-$('#close-menu').click(function(){
-    $('.side-mobile-nav').fadeOut();
-    $('body').removeClass('modal-open')
-});
-
-$('.side-mobile-nav .nav li a').click(function(){
-    $('.side-mobile-nav').fadeOut();
-    $('body').removeClass('modal-open')
-});
-
-jQuery(document).ready(function($) {
-    $('.counter').countUp({
-        'time': 2000,
-        'delay': 10
+    $('.side-mobile-nav .nav li a').click(function() {
+        $('.side-mobile-nav').fadeOut();
+        $('body').removeClass('modal-open')
     });
-});
 
-// Scroll up btn
-jQuery(window).on("scroll", function () {
-	if ($(this).scrollTop() > 800) {
-		$(".back-to-top").addClass("show-back-to-top");
-	} else {
-		$(".back-to-top").removeClass("show-back-to-top");
-	}
-});
-$(".back-to-top").on("click", function () {
-	$("html, body").animate({ scrollTop: "0" }, 500);
-});
+    jQuery(document).ready(function($) {
+        $('.counter').countUp({
+            'time': 2000,
+            'delay': 10
+        });
+    });
 
+    /*Form Validation*/
 </script>

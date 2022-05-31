@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.962" height="60.949" viewBox="0 0 60.962 60.949">
+  <g id="ic_failed" transform="translate(0.71 1.038)">
+    <g id="Group_11453" data-name="Group 11453" transform="translate(-0.021 -0.345)">
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="28.477" cy="28.477" r="28.477" transform="translate(1.307 1.307)" fill="#c71809"/>
+      <path id="Path_84" data-name="Path 84" d="M28.477,0A28.477,28.477,0,1,0,56.953,28.477,28.477,28.477,0,0,0,28.477,0m0-2A30.459,30.459,0,1,1,16.613.4,30.468,30.468,0,0,1,28.477-2Z" transform="translate(1.307 1.307)" fill="#950c00"/>
+    </g>
+    <g id="x" transform="translate(9.293 8.963)">
+      <path id="Path_86" data-name="Path 86" d="M31.641,9.422a1.441,1.441,0,0,1,0,2.041l-20.18,20.18A1.443,1.443,0,0,1,9.421,29.6L29.6,9.422a1.441,1.441,0,0,1,2.041,0Z" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_87" data-name="Path 87" d="M9.422,9.422a1.441,1.441,0,0,0,0,2.041L29.6,31.643A1.443,1.443,0,0,0,31.643,29.6L11.463,9.422a1.441,1.441,0,0,0-2.041,0Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
