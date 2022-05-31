@@ -38,7 +38,7 @@
                             data and has been privately traded for 2 years successfully at Tech Sport Global.
                         </p>
 
-                        <h1 class="mt-3 mb-2">NFORMATION COLLECTED </h1>
+                        <h1 class="mt-3 mb-2">INFORMATION COLLECTED </h1>
                         <p>
                             We will collect, store personal information and cookie
                             based electronic data about you and/or your visits to and use of this website;
