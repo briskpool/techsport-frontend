@@ -5,17 +5,17 @@
             <div class="col-md-4">
                 <ul class="nav justify-content-start">
                     <li class="nav-item">
-                        <a href="#" target="_blank" class="nav-link social-icon">
+                        <a href="https://twitter.com/TechSportGlobal" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-twitter"></i>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" target="_blank" class="nav-link social-icon">
+                        <a href="https://www.instagram.com/techsportglobal/" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-instagram"></i>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" target="_blank" class="nav-link social-icon">
+                        <a href="https://g.page/r/CUqQRCmsCY1ZEBM/review" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-geo-alt-fill"></i>
                         </a>
                     </li>
