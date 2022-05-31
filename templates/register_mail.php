@@ -414,7 +414,7 @@
                                                                         See our reviews on
                                                                     </p>
                                                                     <a href="https://www.trustpilot.com/review/moto-index.com" style="margin-right:5px;">
-                                                                    <img src="<?php echo $url ?>templates/trustpilot.png" alt="trust pilot" style="height:45px">
+                                                                    <img src="<?php echo $url ?>templates/trustpilot.png" alt="trust pilot">
                                                                     </a>
                                                                 </td>
                                                             </tr>
