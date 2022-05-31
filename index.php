@@ -596,7 +596,7 @@
                             <i class="bi bi-envelope-fill"></i>
                         </div>
                         <div class="info-text">
-                            hello@techsportgroup.com
+                            hello@techsport-global.com
                         </div>
                     </div>
 
@@ -614,7 +614,7 @@
                             <i class="bi bi-geo-alt-fill"></i>
                         </div>
                         <div class="info-text">
-                            World Trade Center 6 Bayside Road Gibraltar GX11 1AA
+                            World Trade Center, 6 Bayside Road, GX11 1AA, Gibraltar
                         </div>
                     </div>
                 </div>
