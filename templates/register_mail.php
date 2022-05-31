@@ -400,7 +400,15 @@
                                                                     </ul>
                                                                 </td>
                                                                 <td class="mobile-p mob-td" align="right" style="padding:10px 40px 0px 40px; font-family: 'Roboto', sans-serif;line-height: 1.5; font-weight:400;">
-                                                                    <a href="https://twitter.com/motoindexhq"
+                                                                    <a href="https://twitter.com/TechSportGlobal"
+                                                                        style="margin-right:5px;">
+                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter">
+                                                                    </a>
+                                                                    <a href="https://twitter.com/TechSportGlobal"
+                                                                        style="margin-right:5px;">
+                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter">
+                                                                    </a>
+                                                                    <a href="https://twitter.com/TechSportGlobal"
                                                                         style="margin-right:5px;">
                                                                         <img src="<?php echo $url ?>templates/twitter.png" alt="twitter">
                                                                     </a>
