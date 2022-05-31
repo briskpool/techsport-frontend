@@ -6,7 +6,7 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 $mail_host="mail.techsport-global.com";
 $user_name="hello@techsport-global.com";
-$mail_pass="Manchester+techsport";
+$mail_pass="tech.sport22";
 $from_name="Tech Sport Global";
 $from_email="hello@techsport-global.com";
 $to_email="muzammil.mykhan@gmail.com";
