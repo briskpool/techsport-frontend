@@ -12,7 +12,7 @@
 		<div class="alert text-center fw-bold text-light" style="font-size:14px; background-color:#0C2C3B;" role="alert">
 			<div class="">
 			<span style="font-family:Glegoo; font-size:18px; padding-right:10px;">Refer a Friend</span><span style="font-family:Glegoo;font-size:18px; font-weight:bold;">£50 Bonus</span> 
-				<a href="mailto:info@algosportsgroup.com?subject=Claim Bonus" class=" animated pulse btn btn-primary mx-2 px-2 py-1">Apply Today</a>
+				<a href="" class=" animated pulse btn btn-primary mx-2 px-2 py-1">Apply Today</a>
 				<span style="font-size: 14px; font-weight: 500; color:#ffffff;" id="demo"></span>
 			</div>
 			
@@ -45,13 +45,13 @@
                     <!-- <div id="carouselExampleSlidesOnly" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="2000">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="images/banner-main1.png" class="d-block w-100" alt="AlgoSports Group">
+							<img src="images/banner-main1.png" class="d-block w-100" alt="">
 						</div>
 						<div class="carousel-item">
-							<img src="images/banner-main2.png" class="d-block w-100" alt="AlgoSports Group">
+							<img src="images/banner-main2.png" class="d-block w-100" alt="">
 						</div>
 						<div class="carousel-item">
-							<img src="images/banner-main3.png" class="d-block w-100" alt="AlgoSports Group">
+							<img src="images/banner-main3.png" class="d-block w-100" alt="">
 						</div>
 					</div>
 				</div> -->
@@ -73,10 +73,10 @@
 		<div class="row justify-content-center">
 				<div class="sec-top-pra text-center fadeIn wow animated delay-1 animated" style="visibility: visible; animation-name: fadeIn;">
 					<h2>Download Our Mobile App</h2>
-					<p>AlgoSports Group works on all major platforms, enabling seamless experience <br>across your browser, mobile device, tablet, and computer.</p>
+					<p>It works on all major platforms, enabling seamless experience <br>across your browser, mobile device, tablet, and computer.</p>
 
 					<p class="py-3">
-						<a href="https://play.google.com/store/apps/details?id=com.algo.algosportsgroup" target="_blank"><img src="images/icon_GooglePlay.svg" alt=""></a>
+						<a href="#" target="_blank"><img src="images/icon_GooglePlay.svg" alt=""></a>
 					</p>
 
 				</div>

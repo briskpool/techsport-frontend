@@ -180,7 +180,7 @@
 		<div class="row">
 			<div class="col-12">
 				<h1>
-					<span>A NEW LEAGUE IN </span> SPORTS TRADING
+					Trade Your Edge Today
 				</h1>
 			</div>
 			<div class="col-12 mt-4 mt-md-5">

@@ -28,11 +28,11 @@
 				<div class="about-content">
 					<h1 class = "mt-3 mb-2">Who are we?</h1>
 						<p>
-							AlgoSports Group is a highly successful sports betting consultancy, devoting millions of hours to take our understanding of sport into a completely different league. 
+							Tech Sport Global is a highly successful sports betting consultancy, devoting millions of hours to take our understanding of sport into a completely different league. 
 						</p>
 					<h1 class = "mt-3 mb-2">What is the Gender Pay Gap?</h1>
 						<p>
-						The gender pay gap is the difference between hourly earnings for men and women regardless of the nature of their work. It is not to be confused with Equal Pay, which ensures men and women who perform similar work or work of equal value are paid the same. The UK gender pay gap is at its lowest level ever (15.5% in 2020) but is still in favour of men. The information below is a snapshot of AlgoSports Group’s Gender Pay Gap for April 2020. 
+						The gender pay gap is the difference between hourly earnings for men and women regardless of the nature of their work. It is not to be confused with Equal Pay, which ensures men and women who perform similar work or work of equal value are paid the same. The UK gender pay gap is at its lowest level ever (15.5% in 2020) but is still in favour of men. The information below is a snapshot of Tech Sport Global’s Gender Pay Gap for April 2020. 
 						</p>
 				</div>
 			</div>
@@ -42,7 +42,7 @@
 			<div class="col-md-7">
 				<div class="about-content">
 					<p>
-						We have a small representation of women at AlgoSports Group making up 7% of the population (a 1% increase from last year) and we recognise that a lack of female leadership in sports betting is an industry wide issue.
+						We have a small representation of women at Tech Sport Global making up 7% of the population (a 1% increase from last year) and we recognise that a lack of female leadership in sports betting is an industry wide issue.
 					</p>
 					<p>
 						We are committed to improving this imbalance by attracting and nurturing female talent within the company.
@@ -62,9 +62,9 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="about-content">
-					<h1 class = "mt-3 mb-2">Measuring AlgoSports Group’s Gender Pay Gap</h1>
+					<h1 class = "mt-3 mb-2">Measuring Tech Sport Global’s Gender Pay Gap</h1>
 						<p>
-							AlgoSports Group is a highly successful sports betting consultancy, devoting millions of hours to take our understanding of sport into a completely different league. 
+							Tech Sport Global is a highly successful sports betting consultancy, devoting millions of hours to take our understanding of sport into a completely different league. 
 						</p>
 					<h1 class = "mt-5 mb-4">What is the Gender Pay Gap?</h1>
 					<b>Pay Differential between Men and Women (2020)</b>
@@ -102,7 +102,7 @@
 						</p>
 						<h1 class = "mt-3 mb-2">Pay & Bonus</h1>
 						<p>
-						Our mean pay gap is 9%. The median pay gap is 8% meaning for every £1 men earn, women earn an equivalent 92p. Although AlgoSports Group’s pay gap is much less than the <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2020">UK average</a> (15.5%) we still aim to improve it. The mean bonus gap is 60%. The pay and bonus gaps are due to a number of factors, the most fundamental being:
+						Our mean pay gap is 9%. The median pay gap is 8% meaning for every £1 men earn, women earn an equivalent 92p. Although Tech Sport Global’s pay gap is much less than the <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2020">UK average</a> (15.5%) we still aim to improve it. The mean bonus gap is 60%. The pay and bonus gaps are due to a number of factors, the most fundamental being:
 						</p>
 				</div>
 			</div>
@@ -161,7 +161,7 @@
 		<div class="row">
 			<div class="col-12">
 				<h1>
-					A NEW LEAGUE IN SPORTS TRADING
+					Trade Your Edge Today
 				</h1>
 			</div>
 			<div class="col-12 mt-4 mt-md-5">

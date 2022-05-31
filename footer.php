@@ -1,15 +1,9 @@
-
 <section class="footer-main">
     <div class="container">
-        <div class="row g-3">
+        <div class="row g-3 d-flex align-items-center">
 
-        <div class="col-md-4">
+            <div class="col-md-4">
                 <ul class="nav justify-content-start">
-                    <li class="nav-item">
-                        <a href="#" target="_blank" class="nav-link social-icon">
-                            <i class="bi bi-linkedin"></i>
-                        </a>
-                    </li>
                     <li class="nav-item">
                         <a href="#" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-twitter"></i>
@@ -17,22 +11,24 @@
                     </li>
                     <li class="nav-item">
                         <a href="#" target="_blank" class="nav-link social-icon">
-                            <i class="bi bi-youtube"></i>
+                            <i class="bi bi-instagram"></i>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a href="#" target="_blank" class="nav-link social-icon">
-                            <i class="bi bi-instagram"></i>
+                            <i class="bi bi-geo-alt-fill"></i>
                         </a>
                     </li>
                 </ul>
             </div>
-            
+
             <div class="col-md-4 py-2">
-               <!-- TrustBox widget - Micro Review Count -->
-                    <!-- <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="6175441ad58e9011b823c3d7" data-style-height="24px" data-style-width="100%" data-theme="dark" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true" data-allow-robots="true">
-                    <a href="https://www.trustpilot.com/review/algosportsgroup.com" target="_blank" rel="noopener">Trustpilot</a>
-                    </div> -->
+                <!-- TrustBox widget - Review Collector -->
+                <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
+                    data-businessunit-id="629534fe67f7ac0968509262" data-style-height="52px" data-style-width="100%">
+                    <a href="https://uk.trustpilot.com/review/techsport-global.com" target="_blank"
+                        rel="noopener">Trustpilot</a>
+                </div>
                 <!-- End TrustBox widget -->
             </div>
 
@@ -51,7 +47,7 @@
                     </li>
                 </ul>
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -61,22 +57,22 @@
         <div class="row">
             <div class="col">
                 <h1>
-                    Copyright © 2016 All Rights Reserved
+                    Copyright © 2022 All Rights Reserved
                 </h1>
-                <P class = "mb-0">
-                    © 2016 AlgoSports Group (UK) Limited. The information provided on this 
-                    website is for information purposes only. The website and its content 
-                    are not, and should not be deemed to be an offer of, or invitation to 
-                    engage in any investment activity. The website should not be construed 
-                    as advice or a personal recommendation by AlgoSports Group (UK) Limited 
-                    or any of its partners. AlgoSports Group (UK) Limited is not authorised 
+                <P class="mb-0">
+                    © 2022 Tech Sport Global (UK) Limited. The information provided on this
+                    website is for information purposes only. The website and its content
+                    are not, and should not be deemed to be an offer of, or invitation to
+                    engage in any investment activity. The website should not be construed
+                    as advice or a personal recommendation by Tech Sport Global (UK) Limited
+                    or any of its partners. Tech Sport Global (UK) Limited is not authorised
                     and regulated by the Financial Conduct Authority (FCA). The content of this
-                     promotion is not authorised under the Financial Services and Markets Act 
-                     2000 (FSMA). Reliance on the promotion for the purpose of engaging in any 
-                     investment activity may expose an individual to a significant risk of 
-                     losing all of the investment. UK residents wishing to participate in this 
-                     promotion must fall into the category of sophisticated investor or high 
-                     net worth individual as outlined by the Financial Conduct Authority (FCA).
+                    promotion is not authorised under the Financial Services and Markets Act
+                    2000 (FSMA). Reliance on the promotion for the purpose of engaging in any
+                    investment activity may expose an individual to a significant risk of
+                    losing all of the investment. UK residents wishing to participate in this
+                    promotion must fall into the category of sophisticated investor or high
+                    net worth individual as outlined by the Financial Conduct Authority (FCA).
                 </P>
             </div>
         </div>
@@ -101,17 +97,20 @@
 <!-- Cookies Alert Start Here -->
 <div class="wrapper-hidden" id="cookies-alert">
     <div class="content">
-      <header>Cookies Consent</header>
-      <p>We use cookies to manage user login sessions, enhance user experience, perform essential site operations and tailor advertising and other content to reflect your specific interests. By clicking <span style="color:#fff;">"I Accept"</span> you consent to the use of cookies and similar technologies for the purposes we outline in our <a href="privacy.php" target="_blank">Privacy Policy</a>.</p> 
-      <div class="buttons">
-        <button class="btn btn-primary">I Accept</button>
-      </div>
+        <header>Cookies Consent</header>
+        <p>We use cookies to manage user login sessions, enhance user experience, perform essential site operations and
+            tailor advertising and other content to reflect your specific interests. By clicking <span
+                style="color:#fff;">"I Accept"</span> you consent to the use of cookies and similar technologies for the
+            purposes we outline in our <a href="privacy.php" target="_blank">Privacy Policy</a>.</p>
+        <div class="buttons">
+            <button class="btn btn-primary">I Accept</button>
+        </div>
     </div>
-  </div>
-  <div class="back-to-top">Top</div>
+</div>
+<div class="back-to-top">Top</div>
 
 
-  <script src="js/cookies.js"></script>
+<script src="js/cookies.js"></script>
 <!--Count Down Timer-->
 <!-- <script>
 // Set the date we're counting down to
@@ -149,192 +148,192 @@ var x = setInterval(function() {
 
 <!-- Cookies Alert Ending -->
 <script>
-    // var fixed_top = $(".navbar-top");
-    // $(window).on("scroll", function () {
-    //   if ($(window).scrollTop() > 50) {
-    //     fixed_top.addClass("header-fixed");
-    //   }
-    //   else {
-    //     fixed_top.removeClass("header-fixed");
-    //   }
-    // });
+// var fixed_top = $(".navbar-top");
+// $(window).on("scroll", function () {
+//   if ($(window).scrollTop() > 50) {
+//     fixed_top.addClass("header-fixed");
+//   }
+//   else {
+//     fixed_top.removeClass("header-fixed");
+//   }
+// });
 
-    $('.navbar-toggler').click(function() {
-        $(this).find('i').toggleClass("bi-list bi-x");
-    });
+$('.navbar-toggler').click(function() {
+    $(this).find('i').toggleClass("bi-list bi-x");
+});
 
-    /*Form Validation*/
-    $(".spinner-border").hide();
-    $('#submit-form').click(function() {
-        const fname = $('input[name="fname"]').val();
-        const email = $('input[name="email"]').val();
-        const subject = $('input[name="subject"]').val();
-        const message = $('textarea[name="msg"]').val();
-        const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+/*Form Validation*/
+$(".spinner-border").hide();
+$('#submit-form').click(function() {
+    const fname = $('input[name="fname"]').val();
+    const email = $('input[name="email"]').val();
+    const subject = $('input[name="subject"]').val();
+    const message = $('textarea[name="msg"]').val();
+    const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 
-        if (fname == '') {
-            $('.fname-error').text('This field is required');
-            return false;
-        } else {
-            $('.fname-error').text('');
-        }
-
-
-        if (email == '') {
-            $('.email-error').text('This field is required');
-            return false;
-        }
-        if (!email.match(mailformat)) {
-            $('.email-error').text('Invalid email address');
-            return false;
-        } else {
-            $('.email-error').text('');
-        }
+    if (fname == '') {
+        $('.fname-error').text('This field is required');
+        return false;
+    } else {
+        $('.fname-error').text('');
+    }
 
 
-        if (subject == '') {
-            $('.subject-error').text('This field is required');
-            return false;
-        } else {
-            $('.subject-error').text('');
-        }
+    if (email == '') {
+        $('.email-error').text('This field is required');
+        return false;
+    }
+    if (!email.match(mailformat)) {
+        $('.email-error').text('Invalid email address');
+        return false;
+    } else {
+        $('.email-error').text('');
+    }
 
-        if (message == '') {
-            $('.message-error').text('This field is required');
-            return false;
-        } else {
-            $('.message-error').text('');
-        }
 
-        $('#submit-form').attr('disabled', true);
-        $("#ic_icon").hide();
-        $(".spinner-border").show();
+    if (subject == '') {
+        $('.subject-error').text('This field is required');
+        return false;
+    } else {
+        $('.subject-error').text('');
+    }
 
-        $.post("send_email.php", {
-                form: "contact",
-                f_name: fname,
-                email: email,
-                subject: subject,
-                msg: message,
-                g_recaptcha_response: grecaptcha.getResponse(),
-            },
+    if (message == '') {
+        $('.message-error').text('This field is required');
+        return false;
+    } else {
+        $('.message-error').text('');
+    }
 
-            function(data, status) {
-                // console.log(data);
-                if (data == 'success') {
-                    $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
-                    $("input").val('');
-                    $("textarea").val('');
-                } else if (data == 'captcha-error') {
-                    $('.captcha-error').text('Captcha is required');
-                } else {
-                    $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
-                }
-            });
+    $('#submit-form').attr('disabled', true);
+    $("#ic_icon").hide();
+    $(".spinner-border").show();
 
-        $(document).ajaxComplete(function() {
-            $(".spinner-border").fadeOut();
-            $("#ic_icon").show();
-            $('#submit-form').attr('disabled', false);
+    $.post("send_email.php", {
+            form: "contact",
+            f_name: fname,
+            email: email,
+            subject: subject,
+            msg: message,
+            g_recaptcha_response: grecaptcha.getResponse(),
+        },
 
+        function(data, status) {
+            // console.log(data);
+            if (data == 'success') {
+                $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
+                $("input").val('');
+                $("textarea").val('');
+            } else if (data == 'captcha-error') {
+                $('.captcha-error').text('Captcha is required');
+            } else {
+                $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
+            }
         });
 
+    $(document).ajaxComplete(function() {
+        $(".spinner-border").fadeOut();
+        $("#ic_icon").show();
+        $('#submit-form').attr('disabled', false);
+
     });
-    $('#register-form').click(function() {
 
-        const fname = $('input[name="f_name"]').val();
-        const lname = $('input[name="lname"]').val();
-        const email = $('input[name="email"]').val();
-        const phone = $('input[name="phone"]').val();
-        const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-        if (fname == '') {
-            $('.fname-error').text('This field is required');
-            return false;
-        } else {
-            $('.fname-error').text('');
-        }
+});
+$('#register-form').click(function() {
 
-        if (lname == '') {
-            $('.lname-error').text('This field is required');
-            return false;
-        } else {
-            $('.lname-error').text('');
-        }
+    const fname = $('input[name="f_name"]').val();
+    const lname = $('input[name="lname"]').val();
+    const email = $('input[name="email"]').val();
+    const phone = $('input[name="phone"]').val();
+    const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+    if (fname == '') {
+        $('.fname-error').text('This field is required');
+        return false;
+    } else {
+        $('.fname-error').text('');
+    }
 
-        if (email == '') {
-            $('.email-error').text('This field is required');
-            return false;
-        }
-        if (!email.match(mailformat)) {
-            $('.email-error').text('Invalid email address');
-            return false;
-        } else {
-            $('.email-error').text('');
-        }
+    if (lname == '') {
+        $('.lname-error').text('This field is required');
+        return false;
+    } else {
+        $('.lname-error').text('');
+    }
 
-        if (phone == '') {
-            $('.phone-error').text('This field is required');
-            return false;
-        }
-        if (isNaN(phone)) {
-            $('.phone-error').text('Invalid phone number');
-            return false;
-        } else {
-            $('.phone-error').text('');
-        }
+    if (email == '') {
+        $('.email-error').text('This field is required');
+        return false;
+    }
+    if (!email.match(mailformat)) {
+        $('.email-error').text('Invalid email address');
+        return false;
+    } else {
+        $('.email-error').text('');
+    }
 
-        $('#register-form').attr('disabled', true);
-        $("#ic_icon").hide();
-        $(".spinner-border").show();
+    if (phone == '') {
+        $('.phone-error').text('This field is required');
+        return false;
+    }
+    if (isNaN(phone)) {
+        $('.phone-error').text('Invalid phone number');
+        return false;
+    } else {
+        $('.phone-error').text('');
+    }
 
-        $.post("send_email.php", {
-                form: "register",
-                f_name: fname,
-                l_name: lname,
-                email: email,
-                phone: phone,
-                g_recaptcha_response: grecaptcha.getResponse(),
-            },
+    $('#register-form').attr('disabled', true);
+    $("#ic_icon").hide();
+    $(".spinner-border").show();
 
-            function(data, status) {
-                console.log(data);
-                if (data == 'success') {
-                    $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
-                    $("input").val('');
-                } else if (data == 'captcha-error') {
-                    $('.captcha-error').text('Captcha is required');
-                } else {
-                    $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
-                }
-            });
+    $.post("send_email.php", {
+            form: "register",
+            f_name: fname,
+            l_name: lname,
+            email: email,
+            phone: phone,
+            g_recaptcha_response: grecaptcha.getResponse(),
+        },
 
-        $(document).ajaxComplete(function() {
-            $(".spinner-border").fadeOut();
-            $("#ic_icon").show();
-            $('#register-form').attr('disabled', false);
+        function(data, status) {
+            console.log(data);
+            if (data == 'success') {
+                $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
+                $("input").val('');
+            } else if (data == 'captcha-error') {
+                $('.captcha-error').text('Captcha is required');
+            } else {
+                $("#fail-msg").fadeIn(300).delay(3000).fadeOut(200);
+            }
         });
-    });
-    $('#open-menu').click(function() {
-        $('.side-mobile-nav').fadeIn();
-        $('body').addClass('modal-open')
-    });
 
-    $('#close-menu').click(function() {
-        $('.side-mobile-nav').fadeOut();
-        $('body').removeClass('modal-open')
+    $(document).ajaxComplete(function() {
+        $(".spinner-border").fadeOut();
+        $("#ic_icon").show();
+        $('#register-form').attr('disabled', false);
     });
+});
+$('#open-menu').click(function() {
+    $('.side-mobile-nav').fadeIn();
+    $('body').addClass('modal-open')
+});
 
-    $('.side-mobile-nav .nav li a').click(function() {
-        $('.side-mobile-nav').fadeOut();
-        $('body').removeClass('modal-open')
+$('#close-menu').click(function() {
+    $('.side-mobile-nav').fadeOut();
+    $('body').removeClass('modal-open')
+});
+
+$('.side-mobile-nav .nav li a').click(function() {
+    $('.side-mobile-nav').fadeOut();
+    $('body').removeClass('modal-open')
+});
+
+jQuery(document).ready(function($) {
+    $('.counter').countUp({
+        'time': 2000,
+        'delay': 10
     });
+});
 
-    jQuery(document).ready(function($) {
-        $('.counter').countUp({
-            'time': 2000,
-            'delay': 10
-        });
-    });
-
-    /*Form Validation*/
+/*Form Validation*/
 </script>

@@ -27,7 +27,7 @@
 			<div class="col-md-12">
 				<div class="about-content inner-page-content">
 					<p>
-					This website is owned and operated by AlgoSports Group (UK) Limited (hereinafter “Us” or “We”). 
+					This website is owned and operated by Tech Sport Global (UK) Limited (hereinafter “Us” or “We”). 
                     By visiting our website and accessing the information the information, resources, services, 
                     products, and tools we provide, you understand and agree to accept and adhere to the following 
                     terms and conditions as stated in this policy (hereafter referred to as ‘User Agreement ‘).
@@ -63,7 +63,7 @@
                     done at your own discretion and risk, and that you are solely responsible for any damage to your
                     computer or other devices for any loss of data that may result from the download of such content.
                     no information or advice, whether expressed, implied, oral or written, obtained by you from 
-                    AlgoSports Group (UK) Limited or through any Resources we provide shall create any warranty, 
+                    Tech Sport Global (UK) Limited or through any Resources we provide shall create any warranty, 
                     guarantee, or conditions of any kind, except for those expressly outlined in this 
                     User Agreement. 
                     </p>
@@ -73,7 +73,7 @@
                     In conjunction with the Limitation of Warranties 
                     as explained above, you expressly understand and agree that any claim against us shall be 
                     limited to the amount you paid, if any, for use of products and/or services. 
-                    AlgoSports Group (UK) Limited will not be liable for any direct, indirect, incidental, 
+                    Tech Sport Global (UK) Limited will not be liable for any direct, indirect, incidental, 
                     consequential or exemplary loss or damages which may be incurred by you as a result of 
                     using our Resources, or as a result of any changes, data loss or corruption, cancellation,
                     loss of access, or downtime to the full extent that applicable limitation of liability laws 
@@ -99,7 +99,7 @@
                     </h1>
                     <p>
                     This 
-                    website is controlled by AlgoSports Group (UK) Limited. 
+                    website is controlled by Tech Sport Global (UK) Limited. 
                     It can be accessed by most countries around the world. By accessing our website, you agree that 
                     the statutes and laws of our state, without regard to the conflict of laws and the United 
                     Nations Convention on the International Sales of Goods, will apply to all matters relating to 
@@ -148,7 +148,7 @@
                     <p>
                     Certain names, graphics, logos, icons, designs,
                     words, titles or phrases on this website may constitute trade names or trademarks of 
-                    AlgoSports Group (UK) Limited. The display of any trademark on this website does not 
+                    Tech Sport Global (UK) Limited. The display of any trademark on this website does not 
                     imply that a license of any kind to use the trademark has been granted. Unless otherwise
                     specified, your use of this website does not give you permission to copy, reproduce, 
                     redistribute or republish, in any form, any information found in the pages of this website.

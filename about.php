@@ -1,7 +1,7 @@
 <?php 
 	$currentPage = 'about'; // current page name....
-	$pageTitle = 'About Tech Sport Group';
-	$metaDescription = "Tech Sport Group operates an uncorrelated investment strategy, independent of prevailing economic conditions; in other words it is recession-proof and offers returns independent of any other mainstream investment product.";
+	$pageTitle = 'About Tech Sport Global';
+	$metaDescription = "Tech Sport Global operates an uncorrelated investment strategy, independent of prevailing economic conditions; in other words it is recession-proof and offers returns independent of any other mainstream investment product.";
 	include 'header.php'; ?>
 
 <body>
@@ -14,7 +14,7 @@
 		<div class="row">
 			<div class="col-12">
 				<h1 class = "my-5">
-					<span>ABOUT </span> TECH SPORT GROUP
+					<span>About </span> Tech Sport Global
 				</h1>
 			</div>
 		</div>
@@ -28,7 +28,7 @@
 				<div class="about-content">
 
 					<p>
-					<span>Tech Sport Group</span> has developed its own trading algorithm code named Algo66, based upon artificial intelligence (“AI”) which constantly refines and innovates the underlying assumptions and strategy.
+					<span>Tech Sport Group</span> has developed its own trading algorithm, based upon artificial intelligence (“AI”) which constantly refines and innovates the underlying assumptions and strategy.
 					</p>
 
                     <p>
@@ -62,7 +62,7 @@
 		<div class="row">
 			<div class="col-12">
 				<h1>
-					A NEW LEAGUE INSPORTS TRADING
+					Trade Your Edge Today
 				</h1>
 			</div>
 			<div class="col-12 mt-4 mt-md-5">
