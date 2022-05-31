@@ -30,12 +30,8 @@
                             Tech Sport Global (UK) Limited - Privacy Policy
                         </h1>
                         <p>
-                            Tech Sport Global has developed its own trading algorithm,
-                            based upon artificial intelligence (“AI”) which constantly refines
-                            and innovates the underlying assumptions and strategy. The trading
-                            system continuously evolves, and the self-learning algorithm develops
-                            with each trade. The system has been back-tested on 5 years of historical
-                            data and has been privately traded for 2 years successfully at Tech Sport Global.
+                            Tech Sport Global is a highly successful sports trading consultancy, devoting millions of
+                            hours to take our understanding of sport into a completely different league.
                         </p>
 
                         <h1 class="mt-3 mb-2">INFORMATION COLLECTED </h1>
