@@ -97,7 +97,7 @@
         }
 
         ul.f-list {
-            padding-inline-start: 0px;
+            padding-inline-start: 0px !important;
             margin-top: 4px;
         }
 
