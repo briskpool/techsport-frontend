@@ -1,6 +1,3 @@
-<?php
-	require("../url.php");
-?>
 <!doctype html>
 <html>
 <head>
@@ -391,7 +388,7 @@
                                                                     <ul class="f-list">
                                                                         <li>
                                                                         <a href="https://uk.trustpilot.com/evaluate/techsport-global.com" target="_blank" style="margin-right:5px;">
-                                                                    <img src="<?php echo $url ?>templates/trustpilot.png" alt="trust pilot">
+                                                                    <img src="https://techsport-global.com/templates/trustpilot.png" alt="trust pilot">
                                                                     </a>
                                                                     <p class="mobile-p" align="left" style="font-weight: 400;
 																			margin-bottom: 0px !important;font-size: 12px; color: #626262;font-family: 'Product sans', sans-serif;">
@@ -403,15 +400,15 @@
                                                                 <td class="mobile-p mob-td" align="right" style="padding:10px 40px 0px 40px; font-family: 'Roboto', sans-serif;line-height: 1.5; font-weight:400;">
                                                                     <a href="https://twitter.com/TechSportGlobal" target="_blank"
                                                                         style="margin-right:5px;">
-                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter" style="width:40px;">
+                                                                        <img src="https://techsport-global.com/templates/twitter.png" alt="twitter" style="width:40px;">
                                                                     </a>
                                                                     <a href="https://www.instagram.com/techsportglobal/" target="_blank"
                                                                         style="margin-right:5px;">
-                                                                        <img src="<?php echo $url ?>templates/insta.png" alt="instagram" style="width:40px;">
+                                                                        <img src="https://techsport-global.com/templates/insta.png" alt="instagram" style="width:40px;">
                                                                     </a>
                                                                     <a href=" https://g.page/r/CUqQRCmsCY1ZEBM/review" target="_blank"
                                                                         style="margin-right:5px;">
-                                                                        <img src="<?php echo $url ?>templates/google.png" alt="instagram" style="width:40px;">
+                                                                        <img src="https://techsport-global.com/templates/google.png" alt="instagram" style="width:40px;">
                                                                     </a>
                                                                     
                                                                 </td>
