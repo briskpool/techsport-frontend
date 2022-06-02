@@ -195,7 +195,7 @@
             }
 
             .mobile-p {
-                font-size: 15px !important;
+                font-size: 13px !important;
                 line-height: 20px !important;
                 text-align: left !important;
             }
@@ -297,7 +297,7 @@
 
                                                     <td class="mobile-p" align="left" style="padding:0px 40px 0px 40px; 
 													font-family: 'Product sans bold;line-height: 1.5;">
-                                                        <h1 style="text-align:left; font-weight:700; font-size:20px;color: #2AD588;font-family: 'Product sans bold', sans-serif;">
+                                                        <h1 style="text-align:left; font-weight:700; font-size:20px;color: #333;font-family: 'Product sans bold', sans-serif;">
                                                             <span style="font-weight:500;">Registration Request</span>
                                                         </h1>
                                                         <p class="mobile-p" align="left" style="font-weight: 400; margin-top:20px !important;
@@ -393,43 +393,46 @@
                                                                 <td class="mobile-p mob-td" align="left" style="padding:10px 40px 0px 40px; font-family: 'Product sans', sans-serif;line-height: 1.5; font-weight:400;font-size:14px;">
                                                                     <ul class="f-list">
                                                                         <li>
-                                                                            <a style="color: #91288F" href="http://techsport-group.com">
-                                                                                www.techsport-group.com
-                                                                            </a>
+                                                                        <a href="https://uk.trustpilot.com/evaluate/techsport-global.com" target="_blank" style="margin-right:5px;">
+                                                                    <img src="<?php echo $url ?>templates/trustpilot.png" alt="trust pilot">
+                                                                    </a>
+                                                                    <p class="mobile-p" align="left" style="font-weight: 400;
+																			margin-bottom: 0px !important;font-size: 12px; color: #626262;font-family: 'Product sans', sans-serif;">
+                                                                        See our reviews on
+                                                                    </p>
                                                                         </li>
                                                                     </ul>
                                                                 </td>
                                                                 <td class="mobile-p mob-td" align="right" style="padding:10px 40px 0px 40px; font-family: 'Roboto', sans-serif;line-height: 1.5; font-weight:400;">
-                                                                    <a href="https://twitter.com/TechSportGlobal"
+                                                                    <a href="https://twitter.com/TechSportGlobal" target="_blank"
                                                                         style="margin-right:5px;">
-                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter">
+                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter" style="width:40px;">
                                                                     </a>
-                                                                    <a href="https://twitter.com/TechSportGlobal"
+                                                                    <a href="https://www.instagram.com/techsportglobal/" target="_blank"
                                                                         style="margin-right:5px;">
-                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter">
+                                                                        <img src="<?php echo $url ?>templates/insta.png" alt="instagram" style="width:40px;">
                                                                     </a>
-                                                                    <a href="https://twitter.com/TechSportGlobal"
+                                                                    <a href=" https://g.page/r/CUqQRCmsCY1ZEBM/review" target="_blank"
                                                                         style="margin-right:5px;">
-                                                                        <img src="<?php echo $url ?>templates/twitter.png" alt="twitter">
+                                                                        <img src="<?php echo $url ?>templates/google.png" alt="instagram" style="width:40px;">
                                                                     </a>
+                                                                    
                                                                 </td>
-                                                            </tr>
+                                                            </tr>   
+                                                           
 
                                                             <tr>
                                                                 <td class="mobile-p mob-td" align="left" style="padding:10px 40px 0px 40px; font-family: 'Roboto', sans-serif;line-height: 1.5; font-weight:400;">
-                                                                    <p class="mobile-p" align="left" style="font-weight: 400;
-																			margin-bottom: 5px !important;font-size: 14px; color: #626262;font-family: 'Product sans', sans-serif;">
-                                                                        See our reviews on
-                                                                    </p>
-                                                                    <a href="https://www.trustpilot.com/review/moto-index.com" style="margin-right:5px;">
-                                                                    <img src="<?php echo $url ?>templates/trustpilot.png" alt="trust pilot">
-                                                                    </a>
+                                                                    
+                                                                    <a style="color: blue" href="https://techsport-global.com">
+                                                                                www.techsport-global.com
+                                                                            </a>
                                                                 </td>
                                                             </tr>
                                                             <tr>
                                                                 <td colspan="2" class="mobile-p mob-td" align="left" style="padding:10px 40px 0px 40px; font-family: 'Product sans', sans-serif;line-height: 1.5; font-weight:400;font-size:14px;">
                                                                     <p class="mobile-p" align="left" style="font-weight: 400; margin-top:15px;
-																			margin-bottom: 10px !important;font-size: 14px; color: #626262;font-family: 'Product sans', sans-serif;">
+																			margin-bottom: 10px !important;font-size: 12px; color: #626262;font-family: 'Product sans', sans-serif;">
                                                                         This email and any attachments to it are confidential and intended solely for the person to whom they are addressed. They may contain legally privileged information. If you have received this in error, please delete this message and let us know by emailing hello@techsport-group.com. The messaging system from which this e-mail was sent is checked regularly for viruses. No liability is accepted for any viruses which may be transmitted in or with this e-mail from Tech Sport Group.
                                                                     </p>
                                                                 </td>
