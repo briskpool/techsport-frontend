@@ -219,7 +219,7 @@ $('#submit-form').click(function() {
         },
 
         function(data, status) {
-            // console.log(data);
+            console.log(data);
             if (data == 'success') {
                 $("#success-msg").fadeIn(300).delay(3000).fadeOut(200);
                 $("input").val('');
