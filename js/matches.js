@@ -47,7 +47,7 @@
         const settings = {
             "async": true,
             "crossDomain": true,
-            "url": "https://api-football-v1.p.rapidapi.com/v3/fixtures?league=39&season=2021&timezone=Europe/London&next=9",
+            "url": "https://api-football-v1.p.rapidapi.com/v3/fixtures?league=71&season=2022&timezone=Europe/London&next=9",
             "method": "GET",
             "headers": {
                 "x-rapidapi-key": "5a064d629amsh0e00769af305bdap180755jsnb03e3a7f19f0",

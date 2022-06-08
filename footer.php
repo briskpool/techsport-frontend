@@ -158,6 +158,17 @@ var x = setInterval(function() {
 //   }
 // });
 
+$(document).ready(function () {
+    $("#tabs li a").on("click", function (e) {
+        $("#tabs li, #content .current").removeClass("current").removeClass("fadeInUp");
+        $(this).parent().addClass("current");
+        var currentTab = $(this).attr("href");
+        $(currentTab).addClass("current fadeInUp");
+        e.preventDefault();
+    });
+});
+
+
 $('.navbar-toggler').click(function() {
     $(this).find('i').toggleClass("bi-list bi-x");
 });

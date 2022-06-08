@@ -222,7 +222,7 @@
 
                 <div class="col-md-8 mb-3 mb-md-0 ps-md-0">
                     <h1>
-                        Premier League
+                        Brazil - Serie A
                     </h1>
                 </div>
                 <div class="col-md-4 text-end pe-md-0 d-none d-md-block">
@@ -270,7 +270,7 @@
                         <div id="tab-standings" class="content-wrapper animated">
                             <div class="container">
                                 <div id="wg-api-football-standings" data-host="api-football-v1.p.rapidapi.com"
-                                    data-league="39" data-team="" data-season="2021"
+                                    data-league="71" data-team="" data-season="2022"
                                     data-key="5a064d629amsh0e00769af305bdap180755jsnb03e3a7f19f0" data-theme=""
                                     data-show-errors="false" class="api_football_loader">
                                 </div>
@@ -282,8 +282,8 @@
                         <div id="tab-fixtures" class=" content-wrapper animated">
                             <div class="container">
                                 <div id="wg-api-football-fixtures" data-host="api-football-v1.p.rapidapi.com"
-                                    data-theme="dark" data-refresh="60" data-date="" data-league="39" data-team=""
-                                    data-season="2021" data-last="20" data-next=""
+                                    data-theme="dark" data-refresh="60" data-date="" data-league="71" data-team=""
+                                    data-season="2022" data-last="20" data-next=""
                                     data-key="5a064d629amsh0e00769af305bdap180755jsnb03e3a7f19f0" data-theme=""
                                     data-show-errors="false" class="api_football_loader">
                                 </div>
