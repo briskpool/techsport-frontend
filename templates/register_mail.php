@@ -409,7 +409,7 @@
                                                                         style="margin-right:5px;">
                                                                         <img src="https://techsport-global.com/templates/insta.png" alt="instagram" style="width:40px;">
                                                                     </a>
-                                                                    <a href=" https://g.page/r/CUqQRCmsCY1ZEBM/review" target="_blank"
+                                                                    <a href=" https://goo.gl/maps/M1RD6EucjC2f8eWR6" target="_blank"
                                                                         style="margin-right:5px;">
                                                                         <img src="https://techsport-global.com/templates/google.png" alt="instagram" style="width:40px;">
                                                                     </a>

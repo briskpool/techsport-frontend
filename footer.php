@@ -15,7 +15,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="https://g.page/r/CUqQRCmsCY1ZEBM/review" target="_blank" class="nav-link social-icon">
+                        <a href="https://goo.gl/maps/M1RD6EucjC2f8eWR6" target="_blank" class="nav-link social-icon">
                             <i class="bi bi-geo-alt-fill"></i>
                         </a>
                     </li>
