@@ -51,6 +51,7 @@
             "method": "GET",
             "headers": {
                 "x-rapidapi-key": "5a064d629amsh0e00769af305bdap180755jsnb03e3a7f19f0",
+                
                 "x-rapidapi-host": "api-football-v1.p.rapidapi.com"
             }
         };
