@@ -605,7 +605,7 @@
                             <i class="bi bi-telephone-fill"></i>
                         </div>
                         <div class="info-text">
-                            0800 915 3215
+                            0800 702 2122
                         </div>
                     </div>
 

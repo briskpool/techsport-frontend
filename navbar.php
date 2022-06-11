@@ -34,7 +34,7 @@
                     </li>
                 </ul>
                 <div class="d-flex">
-                    <a href="#" class="btn btn-primary mx-2 px-4">
+                    <a href="https://accounts.techsport-global.com" class="btn btn-primary mx-2 px-4">
                     <i class="bi bi-person-fill me-1"></i>Login
                     </a>
                     <a href="register.php" class="btn btn-secondary mx-2 px-4">
@@ -78,7 +78,7 @@
                 </li>
 
                 <li class="nav-item">
-                <a href="#" class="btn-primary nav-link">
+                <a href="https://accounts.techsport-global.com" class="btn-primary nav-link">
                     <i class="bi bi-person-fill me-1"></i>Login
                     </a>
                 </li>
