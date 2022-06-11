@@ -9,7 +9,7 @@ $user_name="hello@techsport-global.com";
 $mail_pass="tech.sport22";
 $from_name="Tech Sport Global";
 $from_email="hello@techsport-global.com";
-$to_email="muzammil.mykhan@gmail.com";
+$to_email="hello@techsport-global.com";
 
 
 if (!empty($_POST['g_recaptcha_response'])) {
