@@ -67,31 +67,6 @@
     </section>
 
 
-    <!-- <section class="py-3 py-md-3 bg-white">
-
-    <div class="container py-3 py-md-4">
-		<div class="row justify-content-center">
-				<div class="sec-top-pra text-center fadeIn wow animated delay-1 animated" style="visibility: visible; animation-name: fadeIn;">
-					<h2>Download Our Mobile App</h2>
-					<p>It works on all major platforms, enabling seamless experience <br>across your browser, mobile device, tablet, and computer.</p>
-
-					<p class="py-3">
-						<a href="#" target="_blank"><img src="images/icon_GooglePlay.svg" alt=""></a>
-					</p>
-
-				</div>
-				<div class="col-9">
-					<div class="ratio ratio-16x9 border">
-						<iframe src="https://www.youtube.com/embed/gIFNu4qPPDU" title="YouTube video" allowfullscreen></iframe>
-					</div>
-				</div>
-		</div>
-		
-	</div>
-
-</section> -->
-
-
     <section class="page-sec about">
         <div class="container">
             <div class="row g-5">
@@ -160,6 +135,31 @@
             </div>
         </div>
     </section>
+
+    <section class="py-3 py-md-3 bg-white">
+
+<div class="container py-3 py-md-4">
+    <div class="row justify-content-center">
+        <!-- <div class="sec-top-pra text-center fadeIn wow animated delay-1 animated" style="visibility: visible; animation-name: fadeIn;">
+            <h2>Download Our Mobile App</h2>
+            <p>It works on all major platforms, enabling seamless experience <br>across your browser, mobile device, tablet, and computer.</p>
+
+            <p class="py-3">
+                <a href="#" target="_blank"><img src="images/icon_GooglePlay.svg" alt=""></a>
+            </p>
+
+        </div> -->
+        <div class="col-9">
+            <div class="ratio ratio-16x9 border">
+                <iframe src="https://www.youtube.com/embed/kOjOUWDda_8" title="YouTube video"
+                    allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</section>
 
 
     <section class="page-sec sec-b">
