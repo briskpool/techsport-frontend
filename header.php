@@ -21,5 +21,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
   <link rel = "stylesheet" href = "css/main-style.css">
+  <!-- TrustBox script -->
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- End TrustBox script -->
   <link rel = "stylesheet" href = "css/cookies.css">
   <link rel="stylesheet" href="css/animate.min.css">
+  

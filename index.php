@@ -63,6 +63,15 @@
 
 
             </div>
+            <div class="row mt-4">
+                <div class="col-12 py-5 rounded mt-4 bg-white">
+                   <!-- TrustBox widget - Carousel -->
+                <div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8912dec7e10d38f59f36" data-businessunit-id="629534fe67f7ac0968509262" data-style-height="140px" data-style-width="100%" data-theme="light" data-stars="4,5" data-review-languages="en">
+                <a href="https://uk.trustpilot.com/review/techsport-global.com" target="_blank" rel="noopener">Trustpilot</a>
+                </div>
+                <!-- End TrustBox widget -->
+                </div>
+            </div>
         </div>
     </section>
 
