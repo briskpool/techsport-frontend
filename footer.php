@@ -36,8 +36,8 @@
             <div class="col-md-5">
                 <ul class="nav mt-1 justify-content-end">
                     <li class="nav-item">
-                        <a href="aqua-index-llc.php" class="nav-link">
-                            Aqua Index LLC
+                        <a href="aml-policy.php" class="nav-link">
+                            AMP Policy
                         </a>
                     </li>
                     <li class="nav-item">

@@ -1,7 +1,7 @@
 <?php 
-	$currentPage = 'Aqua Index LLC'; // current page name....
-    $pageTitle = 'Aqua Index LLC';
-    $metaDescription ="We will collect, store personal information and cookie based electronic data about you and/or your visits to and use of this website";
+	$currentPage = 'AML Policy'; // current page name....
+    $pageTitle = 'AML Policy';
+    $metaDescription ="AML, Terrorist Financing & Financial Crime Prevention Policies";
 	include 'header.php'; ?>
 
 <body>
