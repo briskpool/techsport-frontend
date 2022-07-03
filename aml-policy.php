@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1 class="my-4">
-                        AQUA INDEX LLC
+                        Tech Sport Global INDEX LLC
                     </h1>
                     <p>
                         AML, Terrorist Financing & Financial Crime Prevention Policies
@@ -33,20 +33,20 @@
                             <div class="MuiBox-root jss179 jss76">
                                 <h1>1. Purpose</h1>
                                 <p>The purpose of this Policy is to
-                                    ensure that AQUA and its staff are able to comply with all legal and regulatory
+                                    ensure that Tech Sport Global and its staff are able to comply with all legal and regulatory
                                     requirements relevant to the prevention of money laundering and financial crime.
                                 </p>
                                 <p>The Policy aims to encourage staff
                                     to think about potential financial crime risks as they carry out their duties and to
-                                    be fully aware of the firm’s internal procedures to deter the potential use of AQUA
+                                    be fully aware of the firm’s internal procedures to deter the potential use of Tech Sport Global
                                     for financial crime.</p>
                                 <p>Being used in connection with
                                     financial crime involves firms in reputational, legal and regulatory risks. This
-                                    Policy supports AQUA’s Code of Conduct which places emphasis on both the reputation
+                                    Policy supports Tech Sport Global’s Code of Conduct which places emphasis on both the reputation
                                     of the firm and the importance of compliance with all applicable laws, rules and
                                     regulations in each jurisdiction in which it does business.</p>
                                     <p>This Policy is approved and
-                                        endorsed by the Board of AQUA. It will be reviewed at least annually, in line
+                                        endorsed by the Board of Tech Sport Global. It will be reviewed at least annually, in line
                                         with
                                         the Annual Risk Assessment and Group requirements, to ensure that it continues
                                         to
@@ -54,11 +54,11 @@
                                     <p>This policy should be read in
                                         conjuncture with</p>
                                     <ul>
-                                        <li>The Aqua KYC and Due Diligence procedures</li>
-                                        <li>The Aqua on-boarding and Customer Risk Assessment procedures (including PEPs
+                                        <li>The Tech Sport Global KYC and Due Diligence procedures</li>
+                                        <li>The Tech Sport Global on-boarding and Customer Risk Assessment procedures (including PEPs
                                             and
                                             Sanctions)</li>
-                                        <li>The Aqua Compliance Monitoring procedures</li>
+                                        <li>The Tech Sport Global Compliance Monitoring procedures</li>
                                     </ul>
                             </div>
                             <div>
@@ -66,10 +66,10 @@
                                     the requirements</h1>
                                 <p>Globally, there has been a
                                     long-standing obligation to have effective procedures in place to detect and prevent
-                                    money laundering. Specifically, Aqua is registered in St Vincents and the Grenadines
+                                    money laundering. Specifically, Tech Sport Global is registered in St Vincents and the Grenadines
                                     and the Anti Money Laundering and Terrorist Financial regulations (2014) in St
                                     Vincents and the Grenadines place an obligation on the Firm to adopt suitable AML
-                                    policies and procedures. Aqua is committed to following all global standards and
+                                    policies and procedures. Tech Sport Global is committed to following all global standards and
                                     applicable legislation and has implemented the policies and procedures referred to
                                     in the document to ensure we are able to detect and prevent money laundering taking
                                     place through the Firm.</p>
@@ -106,13 +106,13 @@
                                         ownership of the assets.</li>
                                 </ul>
                                 <p>It is at the layering stage that
-                                    AQUA is most exposed.</p>
+                                    Tech Sport Global is most exposed.</p>
                                 <p><b>Integration:</b> This is the point at
                                     which the funds have been sufficiently distanced from their origin to have achieved
                                     the appearance of legitimacy and the money is integrated into the economy.</p>
                                 <h1>2.3 Suspicious Activity</h1>
                                 <h1>It is at the layering stage that
-                                    AQUA is most at risk although employees should be vigilant for any suspicious
+                                    Tech Sport Global is most at risk although employees should be vigilant for any suspicious
                                     behavior by clients. For example:</h1>
                                 <ul>
                                     <li>trying to make cash payments into their account</li>
@@ -146,7 +146,7 @@
                                 </ul>
                                 <p>Any suspicions must be reported to
                                     Mark Payne, the Head of Compliance. It is his duty as AML/CTF reporting officer of
-                                    AQUA to investigate all suspicions and decide whether to escalate the details to
+                                    Tech Sport Global to investigate all suspicions and decide whether to escalate the details to
                                     external agencies and regulators where applicable.</p>
                                 <h1>2.4 Client Account Opening &amp;
                                     Due Diligence</h1>
@@ -156,16 +156,16 @@
                                     risk. Customer due diligence means finding out the intended purpose and nature of
                                     the business relationship and identifying the customer and verifying their identity
                                     on the basis of documents and/or data from a reliable source such as Hive (ID
-                                    verification technology used by AQUA). All natural persons and legal entities will
+                                    verification technology used by Tech Sport Global). All natural persons and legal entities will
                                     be identified and verified as part of the on-boarding process.</p>
-                                <p>AQUA has adopted a risk based
+                                <p>Tech Sport Global has adopted a risk based
                                     approach and the important factors that have been considered include the business
                                     undertaken along with relevant delivery channels, the customer base and the
-                                    geographic location of clients. Further information is included with the Aqua
+                                    geographic location of clients. Further information is included with the Tech Sport Global
                                     on-boarding and Customer Risk Assessment procedures. Clients are categorized as
                                     high, low or medium risk and enhanced due diligence (EDD) will be undertaken on all
                                     clients classed as high risk.</p>
-                                <p>In addition to AML issues, AQUA
+                                <p>In addition to AML issues, Tech Sport Global
                                     must also check clients against PEP and Sanction databases, this will be carried out
                                     by using relevant on-line systems at the on-boarding stage. Any hits should be
                                     referred to Compliance immediately</p>
@@ -173,7 +173,7 @@
                                 <p>The firm must ensure that systems
                                     and controls include appropriate training for its employees in relation to money
                                     laundering.</p>
-                                <p>At AQUA all new starters are
+                                <p>At Tech Sport Global all new starters are
                                     required to attend an introductory financial crime presentation provided by the
                                     Compliance department. In addition, regular refresher training is provided for
                                     existing employees, usually in the form of computer based testing. Ad-hoc training
@@ -235,7 +235,7 @@
                                     employ modern techniques to manage these funds, and to move them between
                                     jurisdictions.</p>
                                 <p>In combating terrorist financing,
-                                    the obligation on AQUA is to report any suspicious activity to the authorities. This
+                                    the obligation on Tech Sport Global is to report any suspicious activity to the authorities. This
                                     supports the aims of the law enforcement agencies in relation to the financing of
                                     terrorism by allowing the freezing of property where there are reasonable grounds
                                     for suspecting that such property could be used to finance terrorist activity.</p>
@@ -248,10 +248,10 @@
                                     or not, to secure an unfair or unlawful gain through deliberate misrepresentation of
                                     material facts, or deliberate omission of such facts.”</p>
                                 <p>This wide definition includes
-                                    fraud committed by clients against AQUA, by AQUA employees against the firm or
+                                    fraud committed by clients against Tech Sport Global, by Tech Sport Global employees against the firm or
                                     against clients, or fraud committed by third parties against clients or the
                                     business.</p>
-                                <p>AQUA provides its financial
+                                <p>Tech Sport Global provides its financial
                                     services via the internet, with no face to face contact with clients. Its client
                                     base extends across many countries, and this increases the complexity of identity
                                     fraud and impersonation threats. A large proportion of clients reside in high risk
@@ -262,9 +262,9 @@
                                     institutions might be.</p>
                                 <h1>4.2 Fraud Prevention</h1>
                                 <p>There are various safeguards in
-                                    place to prevent fraud occurring at AQUA. These include:</p>
+                                    place to prevent fraud occurring at Tech Sport Global. These include:</p>
                                 <p><b>Code of Conduct :</b> A copy of the
-                                    Code is included in all new employees AQUA Induction Packs. Employees are made fully
+                                    Code is included in all new employees Tech Sport Global Induction Packs. Employees are made fully
                                     aware that disciplinary action may be taken if they fail to act “honestly, fairly
                                     and with integrity when dealing with clients, customer, counterparties and
                                     colleagues.” The Code makes it clear that the reputation of the firm is of the
@@ -311,7 +311,7 @@
                                     of those being served.”</p>
                                 <h1>5.2 Procedures to combat Bribey
                                 </h1>
-                                <p><b>The following procedures are in place at AQUA to combat bribery and corruption:</b></p>
+                                <p><b>The following procedures are in place at Tech Sport Global to combat bribery and corruption:</b></p>
                                 <li>(1) A Whistleblowing Policy which
                                     allows employees to report any concerns anonymously</li>
                                 <li>(2) A Gifts and Inducement Policy.
@@ -340,10 +340,10 @@
                                     (action or inaction) by a person acting alone or in a concert party, which occurs in
                                     relation to qualifying investments traded on, or admitted to trade on a prescribed
                                     market. There are 7 types of abusive behavior.</p>
-                                <p>Although AQUA only offer OTC
+                                <p>Although Tech Sport Global only offer OTC
                                     investment instruments and not exchange traded products, the act of market abuse
                                     also covers any relevant product of an investment traded in any of the above. As
-                                    AQUA’s prices are derived from the movements in the underlying market, CFDs are
+                                    Tech Sport Global’s prices are derived from the movements in the underlying market, CFDs are
                                     caught within the market abuse regime.</p>
                                 <h1>6.2 The 7 Types of Market Abuse
                                 </h1>
@@ -407,14 +407,14 @@
                                     issues are reported on a quarterly basis to the risk committee.</h1>
                                 <h1>7.2 The AML/CTF REPORTING OFFICER
                                 </h1>
-                                <p>Aqua has designated a senior
+                                <p>Tech Sport Global has designated a senior
                                     employee as the AML/CTF reporting officer.</p>
                                 <h1>The AML/CTF reporting officer must:</h1>
                                 <ul>
                                     <li>Provide the Board with an annual report on the firm’s systems and controls in
                                         place to prevent money laundering</li>
                                     <li>Provide the Board with an annual ‘AML Risk Assessment’. This provides an outline
-                                        of the major AML and financial crime risks posed to AQUA and how they are being
+                                        of the major AML and financial crime risks posed to Tech Sport Global and how they are being
                                         managed;</li>
                                     <li>Receive internal suspicion reports concerning AML, Terrorist Financing or
                                         financial crime;</li>
@@ -425,7 +425,7 @@
                                     </li>
                                 </ul>
                                 <h1>7.3 On-going monitoring</h1>
-                                <p>With regard to AQUA being used in
+                                <p>With regard to Tech Sport Global being used in
                                     connection with financial crime, the Compliance department undertakes a variety of
                                     monitoring programmes to prevent this to as great an extent as possible.</p>
                                 <p>This includes taking a weekly
@@ -433,13 +433,13 @@
                                     client accounts over qualifying thresholds for anything suspicious.</p>
                                 <p>The department also exists to
                                     provide advice and guidance to the business. Further details of on-going monitoring
-                                    are included with the Aqua Compliance monitoring procedures</p>
+                                    are included with the Tech Sport Global Compliance monitoring procedures</p>
                             </div>
                             <div>
                                 <h1>8 Declaration</h1>
                                 <p>You must sign the declaration
                                     below, indicating that you have read and agreed to comply with the policies and
-                                    procedures at AQUA to prevent money laundering, terrorist financing and financial
+                                    procedures at Tech Sport Global to prevent money laundering, terrorist financing and financial
                                     crime. Please return this to Compliance.
                             </div>
                         </div>
