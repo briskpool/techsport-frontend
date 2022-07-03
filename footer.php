@@ -37,7 +37,7 @@
                 <ul class="nav mt-1 justify-content-end">
                     <li class="nav-item">
                         <a href="aml-policy.php" class="nav-link">
-                            AMP Policy
+                            AML Policy
                         </a>
                     </li>
                     <li class="nav-item">
