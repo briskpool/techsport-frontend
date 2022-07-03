@@ -22,7 +22,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-4 py-2">
+            <div class="col-md-3 py-2">
                 <!-- TrustBox widget - Review Collector -->
                 <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
                     data-businessunit-id="629534fe67f7ac0968509262" data-style-height="52px" data-style-width="100%">
@@ -33,8 +33,13 @@
             </div>
 
 
-            <div class="col-md-4">
+            <div class="col-md-5">
                 <ul class="nav mt-1 justify-content-end">
+                    <li class="nav-item">
+                        <a href="aqua-index-llc.php" class="nav-link">
+                            Aqua Index LLC
+                        </a>
+                    </li>
                     <li class="nav-item">
                         <a href="terms.php" class="nav-link">
                             Terms Of Use
